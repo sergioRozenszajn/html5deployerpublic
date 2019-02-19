@@ -1,5 +1,5 @@
 {
-  "name": "@sap/html5-app-deployer",
+  "name": "html5-app-deployer-public",
   "engines": {
     "node": "6.0.0"
   },
